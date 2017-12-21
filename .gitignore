@@ -1,0 +1,35 @@
+#Unity Generated
+[Tt]emp/
+[Ll]ibrary/
+[Bb]uild/
+[Ee]xported[Oo]bj/
+[Oo]bj/
+sysinfo.txt
+
+#IDE generated
+*.csproj
+*.tmproj
+*.pidb
+*.userprefs
+*.svd
+*.suo
+*.user
+*.unityproj
+*.booproj
+*.swp
+
+#GIT generated
+*.orig
+*.orig.meta
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*.MERGED.*
+
+#OS Generated
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+._*
